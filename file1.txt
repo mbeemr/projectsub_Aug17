@@ -1,1 +1,3 @@
 this is file 1
+--- test
+with maria adding a new line or two
